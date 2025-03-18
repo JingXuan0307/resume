@@ -228,10 +228,10 @@ section h2{
 	border-radius: 0 40px 40px 0;
 	box-shadow: 2px 2px 5px #3d3d3d;
 	/*--jquery左至右滑入--*/
-	position: relative;
+	/*--position: relative;
 	left: -200px;
 	opacity: 0;
-	display: block;
+	display: block;--*/
 }
 
 #right ul{
