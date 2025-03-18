@@ -132,10 +132,10 @@ section h2{
 	color: #eaeaea;
 	text-shadow: 1px 1px 0.5px #3d3d3d;
 	/*--jquery左至右滑入--*/
-	position: relative;
+	/*--position: relative;
 	left: -200px;
 	opacity: 0;
-	display: block;
+	display: block;--*/
 }
 
 #left ul li{
